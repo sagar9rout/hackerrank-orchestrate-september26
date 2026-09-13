@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000.00,affordable_now,full_payment,2025-08-03:15656000.00,2025-08-03,,Pay 15656000 in full using the available cash flow while maintaining the required minimum balance.
+request_27,6670.00,affordable_now,full_payment,2026-07-05:6670.00,2026-07-05,,Pay 6670 in full using the available cash flow while maintaining the required minimum balance.
+request_28,689.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1302.4. The recommendation is to wait rather than risk the required minimum balance.
+request_29,51524.00,affordable_now,full_payment,2025-11-04:51524.00,2025-11-04,,Pay 51524 in full using the available cash flow while maintaining the required minimum balance.
+request_30,775.20,affordable_now,full_payment,2026-04-06:775.20,2026-04-06,,Pay 775.2 in full using the available cash flow while maintaining the required minimum balance.
+request_31,13840360.00,affordable_later,wait,2024-09-15:18164000.00,2024-09-15,,"Wait until 2024-09-15, when the requested amount can be paid while preserving the required minimum balance."
+request_32,33305.80,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 40018. The recommendation is to wait rather than risk the required minimum balance.
+request_33,65180.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 118000. The recommendation is to wait rather than risk the required minimum balance.
+request_34,129400.00,affordable_now,full_payment,2024-12-04:129400.00,2024-12-04,,Pay 129400 in full using the available cash flow while maintaining the required minimum balance.
+request_35,125130.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 212000. The recommendation is to wait rather than risk the required minimum balance.
+request_36,1446.60,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 3954. The recommendation is to wait rather than risk the required minimum balance.
+request_37,12068800.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 14649000. The recommendation is to wait rather than risk the required minimum balance.
+request_38,379.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 971.3. The recommendation is to wait rather than risk the required minimum balance.
+request_39,203105.00,affordable_later,wait,2026-04-15:208600.00,2026-04-15,,"Wait until 2026-04-15, when the requested amount can be paid while preserving the required minimum balance."
+request_40,894.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1290.3. The recommendation is to wait rather than risk the required minimum balance.
+request_41,24809250.00,affordable_later,wait,2025-11-15:38760000.00,2025-11-15,,"Wait until 2025-11-15, when the requested amount can be paid while preserving the required minimum balance."
+request_42,52100.00,affordable_now,full_payment,2026-01-05:52100.00,2026-01-05,,Pay 52100 in full using the available cash flow while maintaining the required minimum balance.
+request_43,15242750.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 43339000. The recommendation is to wait rather than risk the required minimum balance.
+request_44,79390.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 95800. The recommendation is to wait rather than risk the required minimum balance.
+request_45,8833100.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 21983000. The recommendation is to wait rather than risk the required minimum balance.
+request_46,49450.00,affordable_now,full_payment,2024-12-03:49450.00,2024-12-03,,Pay 49450 in full using the available cash flow while maintaining the required minimum balance.
+request_47,38114000.00,affordable_now,full_payment,2025-05-05:38114000.00,2025-05-05,,Pay 38114000 in full using the available cash flow while maintaining the required minimum balance.
+request_48,45700.00,affordable_now,full_payment,2026-07-25:45700.00,2026-07-25,,Pay 45700 in full using the available cash flow while maintaining the required minimum balance.
+request_49,20228793.34,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 34333000. The recommendation is to wait rather than risk the required minimum balance.
+request_50,43900.00,affordable_now,full_payment,2025-08-06:43900.00,2025-08-06,,Pay 43900 in full using the available cash flow while maintaining the required minimum balance.
+request_51,2191000.00,affordable_now,full_payment,2026-01-03:2191000.00,2026-01-03,,Pay 2191000 in full using the available cash flow while maintaining the required minimum balance.
+request_52,28870.00,affordable_now,full_payment,2024-06-05:28870.00,2024-06-05,,Pay 28870 in full using the available cash flow while maintaining the required minimum balance.
+request_53,1423.42,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1699.2. The recommendation is to wait rather than risk the required minimum balance.
+request_54,16581.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 121528. The recommendation is to wait rather than risk the required minimum balance.
+request_55,190041.19,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 218600. The recommendation is to wait rather than risk the required minimum balance.
+request_56,881.56,affordable_now,full_payment,2025-02-03:881.56,2025-02-03,,Pay 881.56 in full using the available cash flow while maintaining the required minimum balance.
+request_57,21214.60,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 61446. The recommendation is to wait rather than risk the required minimum balance.
+request_58,16226000.00,affordable_now,full_payment,2024-12-07:16226000.00,2024-12-07,,Pay 16226000 in full using the available cash flow while maintaining the required minimum balance.
+request_59,140600.00,affordable_now,full_payment,2025-05-04:140600.00,2025-05-04,,Pay 140600 in full using the available cash flow while maintaining the required minimum balance.
+request_60,199.89,affordable_now,full_payment,2026-01-06:199.89,2026-01-06,,Pay 199.89 in full using the available cash flow while maintaining the required minimum balance.
+request_61,29062.00,affordable_now,full_payment,2024-03-03:29062.00,2024-03-03,,Pay 29062 in full using the available cash flow while maintaining the required minimum balance.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,,Pay 404.23 in full using the available cash flow while maintaining the required minimum balance.
+request_63,98295.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 343900. The recommendation is to wait rather than risk the required minimum balance.
+request_64,62473.01,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 63700. The recommendation is to wait rather than risk the required minimum balance.
+request_65,13024.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 54340. The recommendation is to wait rather than risk the required minimum balance.
+request_66,22200.00,affordable_now,full_payment,2026-04-03:22200.00,2026-04-03,,Pay 22200 in full using the available cash flow while maintaining the required minimum balance.
+request_67,792.54,affordable_later,wait,2024-09-15:2094.00,2024-09-15,,"Wait until 2024-09-15, when the requested amount can be paid while preserving the required minimum balance."
+request_68,2091.60,affordable_now,full_payment,2025-02-07:2091.60,2025-02-07,,Pay 2091.6 in full using the available cash flow while maintaining the required minimum balance.
+request_69,529.10,affordable_now,full_payment,2026-01-04:529.10,2026-01-04,,Pay 529.1 in full using the available cash flow while maintaining the required minimum balance.
+request_70,93360.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 243900. The recommendation is to wait rather than risk the required minimum balance.
+request_71,7485050.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 21451000. The recommendation is to wait rather than risk the required minimum balance.
+request_72,11330.00,affordable_now,full_payment,2026-07-05:11330.00,2026-07-05,,Pay 11330 in full using the available cash flow while maintaining the required minimum balance.
+request_73,71400.00,affordable_now,full_payment,2023-01-20:71400.00,2023-01-20,,Pay 71400 in full using the available cash flow while maintaining the required minimum balance.
+request_74,5010.00,affordable_now,full_payment,2025-08-04:5010.00,2025-08-04,,Pay 5010 in full using the available cash flow while maintaining the required minimum balance.
+request_75,28270.00,affordable_now,full_payment,2026-04-06:28270.00,2026-04-06,,Pay 28270 in full using the available cash flow while maintaining the required minimum balance.
+request_76,1538.80,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 4455.6. The recommendation is to wait rather than risk the required minimum balance.
+request_77,60700.00,affordable_now,full_payment,2025-11-05:60700.00,2025-11-05,,Pay 60700 in full using the available cash flow while maintaining the required minimum balance.
+request_78,50200.00,affordable_now,full_payment,2025-10-02:50200.00,2025-10-02,,Pay 50200 in full using the available cash flow while maintaining the required minimum balance.
+request_79,1104.08,affordable_with_plan,partial_payment,2024-09-04:1104.08|2024-09-15:1047.52,2024-09-15,,Pay the safe amount of 1104.08 now and pay the remaining amount on 2024-09-15 when the forecast supports completing the purchase.
+request_80,158825.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 217500. The recommendation is to wait rather than risk the required minimum balance.
+request_81,2076.00,affordable_now,full_payment,2026-07-03:2076.00,2026-07-03,,Pay 2076 in full using the available cash flow while maintaining the required minimum balance.
+request_82,1102.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1405.2. The recommendation is to wait rather than risk the required minimum balance.
+request_83,31130.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 156200. The recommendation is to wait rather than risk the required minimum balance.
+request_84,62645.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 95400. The recommendation is to wait rather than risk the required minimum balance.
+request_85,2422120.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 19304000. The recommendation is to wait rather than risk the required minimum balance.
+request_86,46300.00,affordable_now,full_payment,2025-08-03:46300.00,2025-08-03,,Pay 46300 in full using the available cash flow while maintaining the required minimum balance.
+request_87,92850.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 487900. The recommendation is to wait rather than risk the required minimum balance.
+request_88,15557.89,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 26092. The recommendation is to wait rather than risk the required minimum balance.
+request_89,13756000.00,affordable_now,full_payment,2025-11-04:13756000.00,2025-11-04,,Pay 13756000 in full using the available cash flow while maintaining the required minimum balance.
+request_90,2560.00,affordable_now,full_payment,2026-07-06:2560.00,2026-07-06,,Pay 2560 in full using the available cash flow while maintaining the required minimum balance.
+request_91,1927.20,affordable_now,full_payment,2024-09-03:1927.20,2024-09-03,,Pay 1927.2 in full using the available cash flow while maintaining the required minimum balance.
+request_92,34034.00,affordable_now,full_payment,2025-02-05:34034.00,2025-02-05,,Pay 34034 in full using the available cash flow while maintaining the required minimum balance.
+request_93,1729.20,affordable_now,full_payment,2026-04-07:1729.20,2026-04-07,,Pay 1729.2 in full using the available cash flow while maintaining the required minimum balance.
+request_94,572.00,affordable_now,full_payment,2024-12-04:572.00,2024-12-04,,Pay 572 in full using the available cash flow while maintaining the required minimum balance.
+request_95,137865.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 553000. The recommendation is to wait rather than risk the required minimum balance.
+request_96,90200.00,affordable_now,full_payment,2026-01-03:90200.00,2026-01-03,,Pay 90200 in full using the available cash flow while maintaining the required minimum balance.
+request_97,8865.89,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-05-20,,Use the supplied installment option because the scheduled payments remain within the safe balance throughout the forecast period.
+request_98,17244.70,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 27148. The recommendation is to wait rather than risk the required minimum balance.
+request_99,18062.00,affordable_now,full_payment,2026-07-04:18062.00,2026-07-04,,Pay 18062 in full using the available cash flow while maintaining the required minimum balance.
+request_100,35863.53,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-08-14,,Use the supplied installment option because the scheduled payments remain within the safe balance throughout the forecast period.
+request_101,143500.00,affordable_now,full_payment,2025-11-03:143500.00,2025-11-03,,Pay 143500 in full using the available cash flow while maintaining the required minimum balance.
+request_102,1716.00,affordable_now,full_payment,2026-04-05:1716.00,2026-04-05,,Pay 1716 in full using the available cash flow while maintaining the required minimum balance.
+request_103,43249.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 368300. The recommendation is to wait rather than risk the required minimum balance.
+request_104,17204.00,affordable_now,full_payment,2025-02-04:17204.00,2025-02-04,,Pay 17204 in full using the available cash flow while maintaining the required minimum balance.
+request_105,53500.00,affordable_now,full_payment,2026-06-08:53500.00,2026-06-08,,Pay 53500 in full using the available cash flow while maintaining the required minimum balance.
+request_106,1401.70,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 2207.7. The recommendation is to wait rather than risk the required minimum balance.
+request_107,2534.40,affordable_now,full_payment,2025-05-05:2534.40,2025-05-05,,Pay 2534.4 in full using the available cash flow while maintaining the required minimum balance.
+request_108,7836.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 55308. The recommendation is to wait rather than risk the required minimum balance.
+request_109,1276.46,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-05-19,,Use the supplied installment option because the scheduled payments remain within the safe balance throughout the forecast period.
+request_110,22352.00,affordable_now,full_payment,2025-08-06:22352.00,2025-08-06,,Pay 22352 in full using the available cash flow while maintaining the required minimum balance.
+request_111,16625000.00,affordable_now,full_payment,2026-04-03:16625000.00,2026-04-03,,Pay 16625000 in full using the available cash flow while maintaining the required minimum balance.
+request_112,271.70,affordable_now,full_payment,2024-06-05:271.70,2024-06-05,,Pay 271.7 in full using the available cash flow while maintaining the required minimum balance.
+request_113,36500.00,affordable_now,full_payment,2026-09-04:36500.00,2026-09-04,,Pay 36500 in full using the available cash flow while maintaining the required minimum balance.
+request_114,65300.00,affordable_now,full_payment,2026-01-04:65300.00,2026-01-04,,Pay 65300 in full using the available cash flow while maintaining the required minimum balance.
+request_115,27135.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 80500. The recommendation is to wait rather than risk the required minimum balance.
+request_116,58075.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 241200. The recommendation is to wait rather than risk the required minimum balance.
+request_117,880.00,affordable_now,full_payment,2026-07-05:880.00,2026-07-05,,Pay 880 in full using the available cash flow while maintaining the required minimum balance.
+request_118,738.10,affordable_now,full_payment,2024-12-07:738.10,2024-12-07,,Pay 738.1 in full using the available cash flow while maintaining the required minimum balance.
+request_119,130901.01,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 203500. The recommendation is to wait rather than risk the required minimum balance.
+request_120,7714000.00,affordable_now,full_payment,2026-04-06:7714000.00,2026-04-06,,Pay 7714000 in full using the available cash flow while maintaining the required minimum balance.
+request_121,633.60,affordable_now,full_payment,2024-03-03:633.60,2024-03-03,,Pay 633.6 in full using the available cash flow while maintaining the required minimum balance.
+request_122,20558000.00,affordable_now,full_payment,2025-08-05:20558000.00,2025-08-05,,Pay 20558000 in full using the available cash flow while maintaining the required minimum balance.
+request_123,4076000.00,affordable_now,full_payment,2026-01-07:4076000.00,2026-01-07,,Pay 4076000 in full using the available cash flow while maintaining the required minimum balance.
+request_124,2109.56,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-08-12,,Use the supplied installment option because the scheduled payments remain within the safe balance throughout the forecast period.
+request_125,6468.00,affordable_now,full_payment,2025-11-06:6468.00,2025-11-06,,Pay 6468 in full using the available cash flow while maintaining the required minimum balance.
+request_126,159600.00,affordable_now,full_payment,2026-07-03:159600.00,2026-07-03,,Pay 159600 in full using the available cash flow while maintaining the required minimum balance.
+request_127,23980.00,affordable_now,full_payment,2024-09-05:23980.00,2024-09-05,,Pay 23980 in full using the available cash flow while maintaining the required minimum balance.
+request_128,25168.00,affordable_now,full_payment,2025-02-07:25168.00,2025-02-07,,Pay 25168 in full using the available cash flow while maintaining the required minimum balance.
+request_129,288.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 2668.8. The recommendation is to wait rather than risk the required minimum balance.
+request_130,917.46,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1978.8. The recommendation is to wait rather than risk the required minimum balance.
+request_131,1855.20,affordable_now,full_payment,2025-05-03:1855.20,2025-05-03,,Pay 1855.2 in full using the available cash flow while maintaining the required minimum balance.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,,Pay 379.86 in full using the available cash flow while maintaining the required minimum balance.
+request_133,15770000.00,affordable_now,full_payment,2024-03-07:15770000.00,2024-03-07,,Pay 15770000 in full using the available cash flow while maintaining the required minimum balance.
+request_134,12118200.00,affordable_later,wait,2025-08-15:21831000.00,2025-08-15,,"Wait until 2025-08-15, when the requested amount can be paid while preserving the required minimum balance."
+request_135,304.80,affordable_now,full_payment,2026-07-06:304.80,2026-07-06,,Pay 304.8 in full using the available cash flow while maintaining the required minimum balance.
+request_136,560.40,affordable_now,full_payment,2024-06-03:560.40,2024-06-03,,Pay 560.4 in full using the available cash flow while maintaining the required minimum balance.
+request_137,67960.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 80100. The recommendation is to wait rather than risk the required minimum balance.
+request_138,1256.94,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1256.94. The recommendation is to wait rather than risk the required minimum balance.
+request_139,2267.84,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-11-08,,Use the supplied installment option because the scheduled payments remain within the safe balance throughout the forecast period.
+request_140,13079.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 62832. The recommendation is to wait rather than risk the required minimum balance.
+request_141,55245.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 171600. The recommendation is to wait rather than risk the required minimum balance.
+request_142,1263.60,affordable_now,full_payment,2024-12-05:1263.60,2024-12-05,,Pay 1263.6 in full using the available cash flow while maintaining the required minimum balance.
+request_143,8811.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 12584. The recommendation is to wait rather than risk the required minimum balance.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,,Pay 233.34 in full using the available cash flow while maintaining the required minimum balance.
+request_145,105613.66,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 217400. The recommendation is to wait rather than risk the required minimum balance.
+request_146,81465.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 449400. The recommendation is to wait rather than risk the required minimum balance.
+request_147,741.53,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1129.7. The recommendation is to wait rather than risk the required minimum balance.
+request_148,13181.08,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 22242. The recommendation is to wait rather than risk the required minimum balance.
+request_149,36652.00,affordable_now,full_payment,2025-11-04:36652.00,2025-11-04,,Pay 36652 in full using the available cash flow while maintaining the required minimum balance.
+request_150,496.10,affordable_now,full_payment,2026-01-06:496.10,2026-01-06,,Pay 496.1 in full using the available cash flow while maintaining the required minimum balance.
+request_151,26999000.00,affordable_now,full_payment,2024-09-03:26999000.00,2024-09-03,,Pay 26999000 in full using the available cash flow while maintaining the required minimum balance.
+request_152,13882.00,affordable_now,full_payment,2025-02-05:13882.00,2025-02-05,,Pay 13882 in full using the available cash flow while maintaining the required minimum balance.
+request_153,503.60,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 2830.8. The recommendation is to wait rather than risk the required minimum balance.
+request_154,1625.80,affordable_now,full_payment,2024-12-04:1625.80,2024-12-04,,Pay 1625.8 in full using the available cash flow while maintaining the required minimum balance.
+request_155,112500.00,affordable_now,full_payment,2025-05-06:112500.00,2025-05-06,,Pay 112500 in full using the available cash flow while maintaining the required minimum balance.
+request_156,15205.30,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 43076. The recommendation is to wait rather than risk the required minimum balance.
+request_157,10091850.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 23503000. The recommendation is to wait rather than risk the required minimum balance.
+request_158,242600.00,affordable_now,full_payment,2025-08-07:242600.00,2025-08-07,,Pay 242600 in full using the available cash flow while maintaining the required minimum balance.
+request_159,13398.00,affordable_now,full_payment,2026-01-04:13398.00,2026-01-04,,Pay 13398 in full using the available cash flow while maintaining the required minimum balance.
+request_160,944.61,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1246.3. The recommendation is to wait rather than risk the required minimum balance.
+request_161,18297950.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 21204000. The recommendation is to wait rather than risk the required minimum balance.
+request_162,10446200.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 83923000. The recommendation is to wait rather than risk the required minimum balance.
+request_163,19304000.00,affordable_now,full_payment,2024-09-07:19304000.00,2024-09-07,,Pay 19304000 in full using the available cash flow while maintaining the required minimum balance.
+request_164,27018000.00,affordable_now,full_payment,2025-02-04:27018000.00,2025-02-04,,Pay 27018000 in full using the available cash flow while maintaining the required minimum balance.
+request_165,80600.00,affordable_now,full_payment,2026-04-06:80600.00,2026-04-06,,Pay 80600 in full using the available cash flow while maintaining the required minimum balance.
+request_166,2907.60,affordable_now,full_payment,2024-12-03:2907.60,2024-12-03,,Pay 2907.6 in full using the available cash flow while maintaining the required minimum balance.
+request_167,43802.00,affordable_now,full_payment,2025-05-05:43802.00,2025-05-05,,Pay 43802 in full using the available cash flow while maintaining the required minimum balance.
+request_168,49380.00,affordable_now,full_payment,2026-01-07:49380.00,2026-01-07,,Pay 49380 in full using the available cash flow while maintaining the required minimum balance.
+request_169,41976.00,affordable_now,full_payment,2024-03-04:41976.00,2024-03-04,,Pay 41976 in full using the available cash flow while maintaining the required minimum balance.
+request_170,36936000.00,affordable_now,full_payment,2025-08-06:36936000.00,2025-08-06,,Pay 36936000 in full using the available cash flow while maintaining the required minimum balance.
+request_171,310.65,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1878.8. The recommendation is to wait rather than risk the required minimum balance.
+request_172,10200.00,affordable_now,full_payment,2024-06-05:10200.00,2024-06-05,,Pay 10200 in full using the available cash flow while maintaining the required minimum balance.
+request_173,83190.53,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 113000. The recommendation is to wait rather than risk the required minimum balance.
+request_174,1146.20,affordable_now,full_payment,2026-04-04:1146.20,2026-04-04,,Pay 1146.2 in full using the available cash flow while maintaining the required minimum balance.
+request_175,2346.30,affordable_now,full_payment,2024-09-06:2346.30,2024-09-06,,Pay 2346.3 in full using the available cash flow while maintaining the required minimum balance.
+request_176,686.95,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1239.7. The recommendation is to wait rather than risk the required minimum balance.
+request_177,1017.60,affordable_now,full_payment,2026-01-05:1017.60,2026-01-05,,Pay 1017.6 in full using the available cash flow while maintaining the required minimum balance.
+request_178,2938.10,affordable_now,full_payment,2024-12-07:2938.10,2024-12-07,,Pay 2938.1 in full using the available cash flow while maintaining the required minimum balance.
+request_179,37957250.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 41648000. The recommendation is to wait rather than risk the required minimum balance.
+request_180,66500.00,affordable_now,full_payment,2026-07-06:66500.00,2026-07-06,,Pay 66500 in full using the available cash flow while maintaining the required minimum balance.
+request_181,1362.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 5059.2. The recommendation is to wait rather than risk the required minimum balance.
+request_182,65714.00,affordable_now,full_payment,2025-08-05:65714.00,2025-08-05,,Pay 65714 in full using the available cash flow while maintaining the required minimum balance.
+request_183,26866000.00,affordable_now,full_payment,2026-04-07:26866000.00,2026-04-07,,Pay 26866000 in full using the available cash flow while maintaining the required minimum balance.
+request_184,52360.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 251900. The recommendation is to wait rather than risk the required minimum balance.
+request_185,783.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1257.3. The recommendation is to wait rather than risk the required minimum balance.
+request_186,22863.50,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 26554. The recommendation is to wait rather than risk the required minimum balance.
+request_187,67435.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 187500. The recommendation is to wait rather than risk the required minimum balance.
+request_188,585.30,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 2464. The recommendation is to wait rather than risk the required minimum balance.
+request_189,488.40,affordable_now,full_payment,2026-07-04:488.40,2026-07-04,,Pay 488.4 in full using the available cash flow while maintaining the required minimum balance.
+request_190,1555.80,affordable_with_plan,partial_payment,2024-12-06:1555.80|2024-12-15:1001.70,2024-12-15,,Pay the safe amount of 1555.80 now and pay the remaining amount on 2024-12-15 when the forecast supports completing the purchase.
+request_191,664.40,affordable_now,full_payment,2025-05-03:664.40,2025-05-03,,Pay 664.4 in full using the available cash flow while maintaining the required minimum balance.
+request_192,384.80,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 2046. The recommendation is to wait rather than risk the required minimum balance.
+request_193,310.62,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1212.2. The recommendation is to wait rather than risk the required minimum balance.
+request_194,95030.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 132800. The recommendation is to wait rather than risk the required minimum balance.
+request_195,1170.40,affordable_now,full_payment,2026-01-06:1170.40,2026-01-06,,Pay 1170.4 in full using the available cash flow while maintaining the required minimum balance.
+request_196,762.30,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,,Pay 762.3 in full using the available cash flow while maintaining the required minimum balance.
+request_197,50939000.00,affordable_now,full_payment,2025-11-05:50939000.00,2025-11-05,,Pay 50939000 in full using the available cash flow while maintaining the required minimum balance.
+request_198,185800.00,affordable_now,full_payment,2026-07-07:185800.00,2026-07-07,,Pay 185800 in full using the available cash flow while maintaining the required minimum balance.
+request_199,23674000.00,affordable_now,full_payment,2024-09-04:23674000.00,2024-09-04,,Pay 23674000 in full using the available cash flow while maintaining the required minimum balance.
+request_200,21717000.00,affordable_now,full_payment,2025-02-06:21717000.00,2025-02-06,,Pay 21717000 in full using the available cash flow while maintaining the required minimum balance.
+request_201,23997000.00,affordable_now,full_payment,2026-04-03:23997000.00,2026-04-03,,Pay 23997000 in full using the available cash flow while maintaining the required minimum balance.
+request_202,123900.00,affordable_now,full_payment,2024-12-05:123900.00,2024-12-05,,Pay 123900 in full using the available cash flow while maintaining the required minimum balance.
+request_203,1442.10,affordable_now,full_payment,2025-05-07:1442.10,2025-05-07,,Pay 1442.1 in full using the available cash flow while maintaining the required minimum balance.
+request_204,588.74,affordable_now,full_payment,2026-01-04:588.74,2026-01-04,,Pay 588.74 in full using the available cash flow while maintaining the required minimum balance.
+request_205,10621000.00,affordable_now,full_payment,2024-03-06:10621000.00,2024-03-06,,Pay 10621000 in full using the available cash flow while maintaining the required minimum balance.
+request_206,1404.70,affordable_now,full_payment,2025-08-03:1404.70,2025-08-03,,Pay 1404.7 in full using the available cash flow while maintaining the required minimum balance.
+request_207,11830.00,affordable_now,full_payment,2026-07-05:11830.00,2026-07-05,,Pay 11830 in full using the available cash flow while maintaining the required minimum balance.
+request_208,4413000.00,affordable_now,full_payment,2024-06-07:4413000.00,2024-06-07,,Pay 4413000 in full using the available cash flow while maintaining the required minimum balance.
+request_209,8625.10,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 56914. The recommendation is to wait rather than risk the required minimum balance.
+request_210,1360.02,affordable_now,full_payment,2026-04-06:1360.02,2026-04-06,,Pay 1360.02 in full using the available cash flow while maintaining the required minimum balance.
+request_211,1227.89,affordable_with_plan,partial_payment,2024-09-03:1227.89|2024-09-15:560.71,2024-09-15,,Pay the safe amount of 1227.89 now and pay the remaining amount on 2024-09-15 when the forecast supports completing the purchase.
+request_212,22344000.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 71934000. The recommendation is to wait rather than risk the required minimum balance.
+request_213,3362.40,affordable_now,full_payment,2026-01-07:3362.40,2026-01-07,,Pay 3362.4 in full using the available cash flow while maintaining the required minimum balance.
+request_214,69750.00,affordable_now,full_payment,2024-12-04:69750.00,2024-12-04,,Pay 69750 in full using the available cash flow while maintaining the required minimum balance.
+request_215,29986.00,affordable_now,full_payment,2025-05-06:29986.00,2025-05-06,,Pay 29986 in full using the available cash flow while maintaining the required minimum balance.
+request_216,1166.80,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 3332.4. The recommendation is to wait rather than risk the required minimum balance.
+request_217,31601.97,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-05-20,,Use the supplied installment option because the scheduled payments remain within the safe balance throughout the forecast period.
+request_218,37942414.80,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-10-02,,Use the supplied installment option because the scheduled payments remain within the safe balance throughout the forecast period.
+request_219,1673.10,affordable_now,full_payment,2026-04-04:1673.10,2026-04-04,,Pay 1673.1 in full using the available cash flow while maintaining the required minimum balance.
+request_220,387.32,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 3118.5. The recommendation is to wait rather than risk the required minimum balance.
+request_221,109800.00,affordable_now,full_payment,2025-11-03:109800.00,2025-11-03,,Pay 109800 in full using the available cash flow while maintaining the required minimum balance.
+request_222,34078.00,affordable_now,full_payment,2026-01-05:34078.00,2026-01-05,,Pay 34078 in full using the available cash flow while maintaining the required minimum balance.
+request_223,898.70,affordable_now,full_payment,2024-09-07:898.70,2024-09-07,,Pay 898.7 in full using the available cash flow while maintaining the required minimum balance.
+request_224,10327000.00,affordable_now,full_payment,2025-02-04:10327000.00,2025-02-04,,Pay 10327000 in full using the available cash flow while maintaining the required minimum balance.
+request_225,18120459.60,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 22059000. The recommendation is to wait rather than risk the required minimum balance.
+request_226,157000.00,affordable_now,full_payment,2024-12-03:157000.00,2024-12-03,,Pay 157000 in full using the available cash flow while maintaining the required minimum balance.
+request_227,42755.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 259700. The recommendation is to wait rather than risk the required minimum balance.
+request_228,10557350.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 63327000. The recommendation is to wait rather than risk the required minimum balance.
+request_229,800.52,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1526.8. The recommendation is to wait rather than risk the required minimum balance.
+request_230,3537.60,affordable_now,full_payment,2025-08-06:3537.60,2025-08-06,,Pay 3537.6 in full using the available cash flow while maintaining the required minimum balance.
+request_231,35706.00,affordable_now,full_payment,2026-01-03:35706.00,2026-01-03,,Pay 35706 in full using the available cash flow while maintaining the required minimum balance.
+request_232,1869.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1970.1. The recommendation is to wait rather than risk the required minimum balance.
+request_233,6241000.00,affordable_now,full_payment,2025-11-07:6241000.00,2025-11-07,,Pay 6241000 in full using the available cash flow while maintaining the required minimum balance.
+request_234,574.25,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1213.3. The recommendation is to wait rather than risk the required minimum balance.
+request_235,967.20,affordable_now,full_payment,2024-09-06:967.20,2024-09-06,,Pay 967.2 in full using the available cash flow while maintaining the required minimum balance.
+request_236,14404850.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 52383000. The recommendation is to wait rather than risk the required minimum balance.
+request_237,23826000.00,affordable_now,full_payment,2026-04-05:23826000.00,2026-04-05,,Pay 23826000 in full using the available cash flow while maintaining the required minimum balance.
+request_238,663.60,affordable_now,full_payment,2024-12-07:663.60,2024-12-07,,Pay 663.6 in full using the available cash flow while maintaining the required minimum balance.
+request_239,642.00,affordable_now,full_payment,2025-05-04:642.00,2025-05-04,,Pay 642 in full using the available cash flow while maintaining the required minimum balance.
+request_240,39920.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 101200. The recommendation is to wait rather than risk the required minimum balance.
+request_241,21052000.00,affordable_now,full_payment,2024-03-03:21052000.00,2024-03-03,,Pay 21052000 in full using the available cash flow while maintaining the required minimum balance.
+request_242,437.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1966.8. The recommendation is to wait rather than risk the required minimum balance.
+request_243,17468.00,affordable_now,full_payment,2026-07-07:17468.00,2026-07-07,,Pay 17468 in full using the available cash flow while maintaining the required minimum balance.
+request_244,49918.00,affordable_now,full_payment,2024-06-04:49918.00,2024-06-04,,Pay 49918 in full using the available cash flow while maintaining the required minimum balance.
+request_245,65760.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 128500. The recommendation is to wait rather than risk the required minimum balance.
+request_246,64086.00,affordable_now,full_payment,2026-04-03:64086.00,2026-04-03,,Pay 64086 in full using the available cash flow while maintaining the required minimum balance.
+request_247,1059.30,affordable_now,full_payment,2024-09-05:1059.30,2024-09-05,,Pay 1059.3 in full using the available cash flow while maintaining the required minimum balance.
+request_248,1507.36,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 1965.6. The recommendation is to wait rather than risk the required minimum balance.
+request_249,342.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 643.2. The recommendation is to wait rather than risk the required minimum balance.
+request_250,28820.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 124278. The recommendation is to wait rather than risk the required minimum balance.
+request_251,1513.60,affordable_now,full_payment,2025-05-03:1513.60,2025-05-03,,Pay 1513.6 in full using the available cash flow while maintaining the required minimum balance.
+request_252,10098500.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 28082000. The recommendation is to wait rather than risk the required minimum balance.
+request_253,2335.57,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 2840.2. The recommendation is to wait rather than risk the required minimum balance.
+request_254,1759.60,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 3535.2. The recommendation is to wait rather than risk the required minimum balance.
+request_255,3345000.00,affordable_now,full_payment,2026-04-06:3345000.00,2026-04-06,,Pay 3345000 in full using the available cash flow while maintaining the required minimum balance.
+request_256,218700.00,affordable_now,full_payment,2024-06-03:218700.00,2024-06-03,,Pay 218700 in full using the available cash flow while maintaining the required minimum balance.
+request_257,1085.20,affordable_later,wait,2025-11-15:1352.40,2025-11-15,,"Wait until 2025-11-15, when the requested amount can be paid while preserving the required minimum balance."
+request_258,1113.60,affordable_now,full_payment,2026-01-07:1113.60,2026-01-07,,Pay 1113.6 in full using the available cash flow while maintaining the required minimum balance.
+request_259,669.30,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 935. The recommendation is to wait rather than risk the required minimum balance.
+request_260,15059400.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 52079000. The recommendation is to wait rather than risk the required minimum balance.
+request_261,1830.40,affordable_now,full_payment,2026-07-03:1830.40,2026-07-03,,Pay 1830.4 in full using the available cash flow while maintaining the required minimum balance.
+request_262,9236000.00,affordable_now,full_payment,2024-12-05:9236000.00,2024-12-05,,Pay 9236000 in full using the available cash flow while maintaining the required minimum balance.
+request_263,14718.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 51546. The recommendation is to wait rather than risk the required minimum balance.
+request_264,44875.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 111300. The recommendation is to wait rather than risk the required minimum balance.
+request_265,45970.00,affordable_now,full_payment,2024-03-06:45970.00,2024-03-06,,Pay 45970 in full using the available cash flow while maintaining the required minimum balance.
+request_266,935.00,affordable_now,full_payment,2025-08-03:935.00,2025-08-03,,Pay 935 in full using the available cash flow while maintaining the required minimum balance.
+request_267,1925.00,affordable_now,full_payment,2026-01-05:1925.00,2026-01-05,,Pay 1925 in full using the available cash flow while maintaining the required minimum balance.
+request_268,1512.52,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 2426.6. The recommendation is to wait rather than risk the required minimum balance.
+request_269,15490.00,affordable_now,full_payment,2025-11-04:15490.00,2025-11-04,,Pay 15490 in full using the available cash flow while maintaining the required minimum balance.
+request_270,535.40,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 3028.8. The recommendation is to wait rather than risk the required minimum balance.
+request_271,84760.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 91300. The recommendation is to wait rather than risk the required minimum balance.
+request_272,8815924.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 13585000. The recommendation is to wait rather than risk the required minimum balance.
+request_273,13372200.00,not_affordable,not_recommended,,,,No safe payment option was found for the requested amount 15861000. The recommendation is to wait rather than risk the required minimum balance.
+request_274,2713.70,affordable_now,full_payment,2024-12-04:2713.70,2024-12-04,,Pay 2713.7 in full using the available cash flow while maintaining the required minimum balance.
+request_275,15884000.00,affordable_now,full_payment,2025-05-06:15884000.00,2025-05-06,,Pay 15884000 in full using the available cash flow while maintaining the required minimum balance.
